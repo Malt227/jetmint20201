@@ -1,0 +1,14 @@
+{
+  "name": "JetMint Airways",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Malt",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
